@@ -4,4 +4,4 @@
 
 **Обученные модели:** CatBoostClassifier, LogicsticRegression, KNeighborsClassifier
 
-**Метрика:** ROC-AUC на тестовой выборке > 0.85 (достигнуто 0.95)
+**Метрика:** целевое значение ROC-AUC на тестовой выборке > 0.85 (достигнуто 0.95)
